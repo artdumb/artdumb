@@ -3,4 +3,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artdumb&layout=compact)](https://github.com/artdumb/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taehun1998)](https://solved.ac/taehun1998)
